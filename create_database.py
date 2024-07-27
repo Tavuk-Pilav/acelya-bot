@@ -10,7 +10,6 @@ from langchain.schema import Document
 
 load_dotenv()
 openai.api_key = os.environ['OPENAI_API_KEY']
-
 CHROMA_PATH = "chroma"
 DATA_PATH = "Data/apsiyon"
 
@@ -19,28 +18,59 @@ def load_documents():
     documents = loader.load()
     return documents
 
+def determine_format(content):
+    if content.strip().startswith("Soru:"):
+        return "qa"
+    elif ":" in content and not content.strip().startswith("Soru:"):
+        return "dictionary"
+    else:
+        return "unknown"
+
 def split_text(documents: list[Document]):
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=200,
-        chunk_overlap=80,
+    qa_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1000,
+        chunk_overlap=200,
+        separators=["\nSoru:", "\n\n"],
         length_function=len,
         add_start_index=True,
     )
-    chunks = text_splitter.split_documents(documents)
+    
+    dict_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=500,
+        chunk_overlap=50,
+        separators=["\n"],
+        length_function=len,
+        add_start_index=True,
+    )
+    
+    chunks = []
+    for doc in documents:
+        format_type = determine_format(doc.page_content)
+        if format_type == "qa":
+            split_chunks = qa_splitter.split_text(doc.page_content)
+        elif format_type == "dictionary":
+            split_chunks = dict_splitter.split_text(doc.page_content)
+        else:
+            # Fallback to a default splitting strategy
+            split_chunks = RecursiveCharacterTextSplitter().split_text(doc.page_content)
+        
+        for chunk in split_chunks:
+            chunks.append(Document(
+                page_content=chunk,
+                metadata={
+                    **doc.metadata,
+                    "format": format_type,
+                    "chunk_size": len(chunk)
+                }
+            ))
+    
     print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
-
-    document = chunks[10]
-    print(document.page_content)
-    print(document.metadata)
-
     return chunks
 
 def save_to_chroma(chunks: list[Document]):
-    # Clear out the database first.
     if os.path.exists(CHROMA_PATH):
         shutil.rmtree(CHROMA_PATH)
-
-    # Create a new DB from the documents.
+    
     db = Chroma.from_documents(
         chunks, OpenAIEmbeddings(), persist_directory=CHROMA_PATH
     )
