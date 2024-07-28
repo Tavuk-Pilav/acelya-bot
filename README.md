@@ -3,11 +3,11 @@
 This application was developed as part of the Apsiyon Hackathon. It's a RAG-LLM-GenAI based chatbot designed to answer questions on customers' minds. You send your question and the chatbot generates the most appropriate answer from vectordb.
 
 ### Features 
-- RAG
-- make an appointment
-- Dictionary
-- Convincing
-
+- **RAG:** Can answer all questions related to Apsiyon
+- **Dictionary:** Provides definitions for real estate terms
+- **Appointment:** The customer can schedule an appointment for a suitable time and day
+- **Persuasive:** Uses a convincing and warm language to persuade the customer
+- **Conversation Logs:** The customer representative can review conversation logs and see a summary of the conversation
 
 
 ### Technologies Used
