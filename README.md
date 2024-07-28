@@ -18,6 +18,7 @@ This application was developed as part of the Apsiyon Hackathon. It's a RAG-LLM-
 
 ### Architecture
 
+![acelyamimari](https://github.com/user-attachments/assets/481cd711-b11c-42d5-bae9-6398c85d20d0)
 
 
 ---
