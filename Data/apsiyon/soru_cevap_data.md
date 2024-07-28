@@ -11,6 +11,9 @@ Dil: Türkçe
 Soru: Sen kimsin? 
 Cevap: Merhaba ben Açelya, sana yardımcı olmak için buradayım.
 
+Soru: Apsiyon hackathonun finalindeki juri üyeleri kimlerdir?
+Cevap: Apsiyon hackathonun finalindeki juri üyeleri Kudret Türk, Erkan Doğan, Meriç Akdamar, Mete Varas ve Prof.Dr. Harun Tanrıvermiş'dir.
+
 Soru: Apsiyon Social nedir?
 Cevap: Apsiyon Social, Apsiyon platformu içerisinde yer alan ve kullanıcıların site aktivitelerini paylaşabildiği, etkinlikler düzenleyebildiği küçük bir sosyal medya platformudur.
 
@@ -168,16 +171,7 @@ Soru: Profesyonel apartman yöneticiliği nasıl yapılır?
 Cevap: Profesyonel apartman yöneticiliği, profesyonel yönetim hizmetleri ile mümkündür. Bina yönetim şirketleri ile konuşarak uygun bina yönetim programları belirlenebilir ve apartman yönetimi kolay ve başarılı bir hale getirilebilir. Apsiyon’un Apsis sistemi, bu süreci kolaylaştırır.
 
 Soru: Apsiyon Apsis'in avantajları nelerdir?
-Cevap: Apsis'in sağladığı avantajlar şunlardır:
-    Dilediğiniz kadar kişi tanımlama ve bilgilerine tek tıkla erişebilme
-    Dairelerin detay bilgilerini görüntüleyebilme
-    Borçlandırma ve takibi kolay ve hızlı yapabilme
-    Online ödeme altyapısı rahatlığı
-    Sayaç dağıtım işlerini kolayca yapabilme
-    Toplu e-posta gönderimi
-    Sınırsız firma (cari) takibi
-    İhtiyaca uygun rapor alabilme
-    Özelleştirilebilir ücretsiz web sitesi hizmeti
+Cevap: Apsis'in sağladığı avantajlar şunlardır: Dilediğiniz kadar kişi tanımlama ve bilgilerine tek tıkla erişebilme, Dairelerin detay bilgilerini görüntüleyebilme, Borçlandırma ve takibi kolay ve hızlı yapabilme, Online ödeme altyapısı rahatlığı, Sayaç dağıtım işlerini kolayca yapabilme, Toplu e-posta gönderimi, Sınırsız firma (cari) takibi, İhtiyaca uygun rapor alabilme, Özelleştirilebilir ücretsiz web sitesi hizmeti
 
 Soru: Apartman yönetim programı neden kullanılmalıdır?
 Cevap: Apartman yönetim programı, yönetim süreçlerini daha düzenli ve verimli hale getirir. İşlerinizi kolaylaştırır ve yönetimle ilgili bilgi eksikliklerinizi gidermeye yardımcı olur. Apsiyon’un yönetim yazılımı, apartman yönetiminde detaylı bilgi ve destek sağlar.
@@ -231,13 +225,8 @@ Soru: Apsiyon Mobil uygulaması konut sakinlerine ne gibi avantajlar sunar?
 Cevap: Apsiyon Mobil uygulaması, site sakinlerine borçlarını görüntüleme ve kolaylıkla ödeme yapma avantajı sunar. Mobil uygulama sayesinde site sakinleri, bu işlemleri hızlı ve pratik bir şekilde gerçekleştirebilirler.
 
 Soru: Apsiyon'un tahsilat özellikleri nelerdir?
-Cevap:
-Online banka entegrasyonları ile hesaptaki tüm hareketleri tek ekrandan görme, gerçekleşen ödemeleri anında onaylama.
-ATS (Aidat Tahsilat Sistemi) sayesinde bankaların tüm ödeme kanalları üzerinden borç sorgulama ve ödeme ile eş zamanlı olarak sisteme işleme, muhasebeleşme.
-Site sakinlerine, kredi kartlarıyla online ödemeye imkân tanıyan, tek çekim veya taksit seçeneği bulunan Sanal POS seçeneği sunma, ödemelerin otomatik olarak hesaba aktarılması.
-Ekonomik olarak sorun yaşanılan alacaklar için anında icra takibi başlatma.
-İcra süreçlerinin ve tahsilatların anlık takibini yapma.
-Tüm platformlar için geliştirilen Apsiyon mobil uygulamaları sayesinde kullanıcılara bildirim gönderme ve anında tahsilat imkânı sunma.
+Cevap: Online banka entegrasyonları ile hesaptaki tüm hareketleri tek ekrandan görme, gerçekleşen ödemeleri anında onaylama. ATS (Aidat Tahsilat Sistemi) sayesinde bankaların tüm ödeme kanalları üzerinden borç sorgulama ve ödeme ile eş zamanlı olarak sisteme işleme, muhasebeleşme. Site sakinlerine, kredi kartlarıyla online ödemeye imkân tanıyan, tek çekim veya taksit seçeneği bulunan Sanal POS seçeneği sunma, ödemelerin otomatik olarak hesaba aktarılması.
+Ekonomik olarak sorun yaşanılan alacaklar için anında icra takibi başlatma. İcra süreçlerinin ve tahsilatların anlık takibini yapma. Tüm platformlar için geliştirilen Apsiyon mobil uygulamaları sayesinde kullanıcılara bildirim gönderme ve anında tahsilat imkânı sunma.
 
 Soru: Apsiyon ürün ve hizmetleri konusunda nasıl detaylı bilgi edinebilirim?
 Cevap: Apsiyon ürün ve hizmetleri konusunda detaylı bilgi alabilmek için web sitesi iletişim formlarımızı doldurabilir, info@apsiyon.com adresine mail atabilir ve 0(216) 911 87 77 numaralı telefondan bizlere ulaşabilirsiniz.
@@ -396,6 +385,5 @@ Cevap: Apsiyon Life üyesi olduğunuz anda Ücretsiz Konut Asistans Paketi sizin
 
 Soru: Apsiyon Life hizmetlerinden ne zaman yararlanmaya başlayabilirim?
 Cevap: Apsiyon Mobil Uygulaması üzerinden Apsiyon Life üyesi olduğunuz andan itibaren hizmetlerden yararlanabilirsiniz. Konut Asistans Paketi Üyeliğiniz, başvuru formunu doldurmanızın ardından, 7 iş günü içerisinde aktif olacaktır. Konut Asistans Paketi’nden yararlanmak için 0 850 318 41 02 numaralı telefonu arayabilirsiniz. Konut Asistans Paketi için "1" tuşladığınızda, bağlandığınız müşteri temsilcisi size yardımcı olacaktır.
-
 
 **_ PROJECT APSİYON EKITABI BİTİŞİ _**
