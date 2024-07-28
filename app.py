@@ -44,6 +44,8 @@ Kullanıcı Sorusu: {question}
 Yanıt:
 """
 
+st.set_page_config(page_title="Açelya", page_icon="images/logo.png")
+
 # Custom CSS for the background and message colors
 st.markdown(
     """
