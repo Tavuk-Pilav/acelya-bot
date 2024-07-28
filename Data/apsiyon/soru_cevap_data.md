@@ -386,4 +386,12 @@ Cevap: Apsiyon Life üyesi olduğunuz anda Ücretsiz Konut Asistans Paketi sizin
 Soru: Apsiyon Life hizmetlerinden ne zaman yararlanmaya başlayabilirim?
 Cevap: Apsiyon Mobil Uygulaması üzerinden Apsiyon Life üyesi olduğunuz andan itibaren hizmetlerden yararlanabilirsiniz. Konut Asistans Paketi Üyeliğiniz, başvuru formunu doldurmanızın ardından, 7 iş günü içerisinde aktif olacaktır. Konut Asistans Paketi’nden yararlanmak için 0 850 318 41 02 numaralı telefonu arayabilirsiniz. Konut Asistans Paketi için "1" tuşladığınızda, bağlandığınız müşteri temsilcisi size yardımcı olacaktır.
 
+Soru: Apsiyon üyelerine özel finansal avantajlar nelerdir?
+Cevap: Apsiyon üyeleri için sunulan finansal avantajlar arasında Odea’da dijital kanallar aracılığı ile müşteri olanlara TL mevduat hesabında %50'ye varan avantajlı faiz oranları, Albaraka’dan vade farksız 15.000 TL İhtiyaç Finansmanı Pratik Finansman Kart'ta, ve RentRovi'den Apsiyonlu ev sahiplerine “Sorunsuz Mülk Yönetimi” paketi ya da “Kira Gelir Garantili” paketi 2 ay ücretsiz yer almaktadır.
+
+Soru: Apsiyon üyeleri için evlerine ve binalarına yönelik hangi kampanyalar mevcut?
+Cevap: Apsiyon üyeleri için sunulan ev ve bina kampanyaları arasında Koçtaş mağazalarından yapılacak 3000 TL ve üzeri alışverişe 300 TL puan, iPApp mobil uygulaması üzerinden vereceğiniz 12 Kg’lık İpragaz ev tüpü siparişinize özel 50 TL indirim, Keskin Design'da deprem güvenliği testinde %20 indirim ve evinizi değişen piyasalarda en doğru fiyata hızla satmak için güncel piyasa değerini ücretsiz öğrenme fırsatı bulunmaktadır.
+
+Soru: Apsiyon üyeleri için telekomünikasyon ve internet alanında hangi kampanyalar mevcut?
+Cevap: Apsiyon üyeleri için sunulan telekomünikasyon ve internet kampanyaları arasında Apsiyon kullanıcılarına özel Turkcell Platinum Avantajlı Tarifeler 700 TL'den başlayan fiyatlarla, taşınabilir internet Superbox 535 TL’den başlayan fiyatlarla, Türk Telekom Prime 442 TL'den başlayan fırsatlarla ve hattını taşıyan Apsiyon kullanıcılarına 100 TL A101 Hediye Çeki ve Vodafone Fiber aboneliği başlatan tüm Apsiyon kullanıcılarına 100 TL değerinde A101 Hediye Çeki bulunmaktadır.
 **_ PROJECT APSİYON EKITABI BİTİŞİ _**
