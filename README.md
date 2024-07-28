@@ -76,3 +76,8 @@ python3 create_database.py
 ```bash
 streamlit run app.py
 ```
+----
+
+
+https://github.com/user-attachments/assets/41fee0a1-a7f8-41e4-837b-a7c733044c23
+
